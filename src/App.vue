@@ -42,6 +42,10 @@ export default defineComponent({
     border-color: #E7E7E7;
 }
 
+.nav-link {
+  color: white !important;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
