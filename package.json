@@ -12,9 +12,11 @@
     "@babylonjs/loaders": "^5.20.0",
     "bootstrap": "^5.2.0",
     "bootstrap-vue": "^2.22.0",
+    "cannon": "^0.6.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
+    "@types/cannon": "^0.1.8",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
